@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kennankole
+- 👋 Hi, I’m Kennedy
 - 👀 I’m interested in python and geospatial development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on pyton projects and geospatial development projects
