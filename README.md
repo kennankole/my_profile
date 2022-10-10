@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning at Microverse
 - 💞️ I’m looking to collaborate on Python, React, and geospatial development projects
 - 📫 How to reach me kennankole@gmail.com
-- 
 
 <!---
 kennankole/kennankole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
