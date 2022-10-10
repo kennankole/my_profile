@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Kennedy
-- 👀 I’m interested in python and geospatial development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on pyton projects and geospatial development projects
+- 👀 I’m Full Stack developer in the making
+- 🌱 I’m currently learning at Microverse
+- 💞️ I’m looking to collaborate on Python and React, and geospatial development projects
 - 📫 How to reach me kennankole@gmail.com
+- 
 
 <!---
 kennankole/kennankole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
