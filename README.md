@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kennedy
 - 👀 I’m Full Stack developer in the making
 - 🌱 I’m currently learning at Microverse
-- 💞️ I’m looking to collaborate on Python and React, and geospatial development projects
+- 💞️ I’m looking to collaborate on Python React, and geospatial development projects
 - 📫 How to reach me kennankole@gmail.com
 - 
 
