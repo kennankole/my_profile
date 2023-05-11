@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Ruby on Rails, React-Redux, Flask, and Django**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-z626.onrender.com/](https://my-portfolio-z626.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-z626.onrender.com/](http://kennankole.me/portfolio/)
 
 - 💬 Ask me about **web development and Geospatial development**
 
